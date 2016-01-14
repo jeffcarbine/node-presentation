@@ -7,5 +7,4 @@ I need to write something here. I'll do that later.
   1. Talk about how cool Node is
   2. How you build Node apps
   3. MEAN stack
-  4. ???
-  5. Profit!!!
+  4. Spinning up servers
