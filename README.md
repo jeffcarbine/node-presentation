@@ -61,3 +61,9 @@ $ npm install
 # It's role in a MEAN stack
 
 Express is the 'E' in the MEAN stack (Mongo, Express, Angular, Node) and it builds the back end of the app.
+
+# Basic Tutorial
+
+Express has a basic routing tutorial that can be found here.
+
+http://expressjs.com/en/starter/basic-routing.html
